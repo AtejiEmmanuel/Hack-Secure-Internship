@@ -1,4 +1,4 @@
-# Hack Secure Internship Portfolio
+# Hack Secure Internship 
 
 ## Overview
 This repository contains projects and tasks completed during my internship at Hack Secure from April 10th, 2025 to May 5th, 2025. The internship focused on practical cybersecurity skills including vulnerability assessment, penetration testing, traffic analysis, and tool development.
