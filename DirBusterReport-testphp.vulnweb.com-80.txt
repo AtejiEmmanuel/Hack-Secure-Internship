@@ -1,0 +1,83 @@
+DirBuster 1.0-RC1 - Report
+http://www.owasp.org/index.php/Category:OWASP_DirBuster_Project
+Report produced on Tue Apr 15 20:16:06 EDT 2025
+--------------------------------
+
+http://testphp.vulnweb.com:80
+--------------------------------
+Directories found during testing:
+
+Dirs found with a 200 response:
+
+/
+/images/
+/AJAX/
+/Mod_Rewrite_Shop/
+/hpp/
+/Flash/
+/admin/
+/Mod_Rewrite_Shop/images/
+/pictures/
+/vendor/
+/Templates/
+/CVS/
+
+Dirs found with a 403 response:
+
+/cgi-bin/
+
+Dirs found with a 502 response:
+
+/cgi-bin/methodology/
+/cgi-bin/trivia/
+/cgi-bin/middleeast/
+/cgi-bin/stars-3/
+/cgi-bin/methodology/shim/
+/cgi-bin/middleeast/pipermail/
+/cgi-bin/stars-3/information/
+/cgi-bin/stars-3/bio/
+/cgi-bin/stars-3/template/
+/cgi-bin/photoblog/
+/cgi-bin/middleeast/wink/
+/cgi-bin/middleeast/wink/research/
+/cgi-bin/middleeast/wink/research/showthread/
+/cgi-bin/stars-3/conf/
+/cgi-bin/middleeast/wink/research/tests/
+
+
+--------------------------------
+Files found during testing:
+
+Files found with a 200 responce:
+
+/index.php
+/search.php
+/login.php
+/categories.php
+/artists.php
+/disclaimer.php
+/cart.php
+/guestbook.php
+/AJAX/index.php
+/Flash/add.swf
+/hpp/index.php
+/Mod_Rewrite_Shop/index.php
+/product.php
+/signup.php
+/AJAX/categories.php
+/Mod_Rewrite_Shop/buy.php
+/Mod_Rewrite_Shop/details.php
+/hpp/test.php
+/logout.php
+/AJAX/titles.php
+/404.php
+/Mod_Rewrite_Shop/rate.php
+/AJAX/artists.php
+
+Files found with a 302 responce:
+
+/userinfo.php
+/redir.php
+
+
+--------------------------------
